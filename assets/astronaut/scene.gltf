@@ -307,18 +307,18 @@
   "buffers": [
     {
       "byteLength": 748540,
-      "uri": "scene.bin"
+      "uri": "https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/astronaut/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/material_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/astronaut/textures/material_baseColor.png"
     },
     {
-      "uri": "textures/Mat.1_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/astronaut/textures/Mat.1_baseColor.png"
     },
     {
-      "uri": "textures/Mat.3_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/astronaut/textures/Mat.3_baseColor.png"
     }
   ],
   "materials": [
