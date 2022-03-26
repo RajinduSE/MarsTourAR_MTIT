@@ -211,7 +211,7 @@
   ],
   "images": [
     {
-      "uri": "https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/mars_landscape/textures/tex_u1_v1_baseColor.png"
+      "uri": "textures/tex_u1_v1_baseColor.png"
     }
   ],
   "materials": [
