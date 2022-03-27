@@ -1961,7 +1961,7 @@
   "buffers": [
     {
       "byteLength": 14024768,
-      "uri": "https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/cyberbaby/scene.bin"
+      "uri": "scene.bin"
     }
   ],
   "extensionsUsed": [
