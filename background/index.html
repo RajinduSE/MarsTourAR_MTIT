@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <script src="https://aframe.io/releases/0.2.0/aframe.js"></script>
+        <!--include A-Frame obviously-->
+        <script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+        <!--include ar.js for A-Frame-->
+        <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
     </head>
-    
     <body>
-        <a-scene>
-            <a-assets>
-                <a-asset-item id="crate-obj" src="models/aztec-temple.obj"></a-asset-item>
-                <a-asset-item id="crate-mtl" src="models/aztec-temple.mtl"></a-asset-item>
-            </a-assets>
-
-            <!-- Using the asset management system. -->
-            <a-obj-model src="#crate-obj" mtl="#crate-mtl"></a-obj-model>
-
-            <!-- Defining the URL inline. Not recommended but may be more comfortable. -->
-            <!--<a-obj-model src="models/aztec-temple.obj" mtl="models/aztec-temple.mtl"></a-obj-model>-->
-        </a-scene>
+        <a-scene embedded arjs>
+            <a-marker preset="hiro">
+                <a-entity scale=".2 .2 .2">
+                    <a-sphere src="https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/mars.png" rotation="90 90 90" position="0 -4 -5" radius="1.25" scale="3 3 3">
+                        <a-animation attribute="rotation" repeat="indefinite" to="90 360 0" dur="9000" easing="linear"></a-animation>
+                    </a-sphere>
+                    <a-entity gltf-model="https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/astronaut/scene.gltf" position="0 0 -10" rotation="-180 0 0" width="4" height="4" scale="2 1 1"></a-entity>
+                </a-entity>
+            </a-marker>
+        </a-scene>   
     </body>
 </html>
