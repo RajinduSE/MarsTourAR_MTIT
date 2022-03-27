@@ -96,7 +96,7 @@
   ],
   "images": [
     {
-      "uri": "https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/mars_perseverance/textures/Mars_Sol89_baseColor.jpeg"
+      "uri": "textures/Mars_Sol89_baseColor.jpeg"
     }
   ],
   "materials": [
