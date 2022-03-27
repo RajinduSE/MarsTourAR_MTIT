@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberbaby
+* source:	https://sketchfab.com/3d-models/cyberbaby-676f4c1201ff41ba9c20f2f5138f1601
+* author:	randomscribbles.45 (https://sketchfab.com/randomscribbles.45)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberbaby" (https://sketchfab.com/3d-models/cyberbaby-676f4c1201ff41ba9c20f2f5138f1601) by randomscribbles.45 (https://sketchfab.com/randomscribbles.45) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
