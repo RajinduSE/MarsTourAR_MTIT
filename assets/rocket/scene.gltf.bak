@@ -91,7 +91,7 @@
   "buffers": [
     {
       "byteLength": 105200,
-      "uri": "https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/rocket/scene.bin"
+      "uri": "scene.bin"
     }
   ],
   "extensionsUsed": [
@@ -99,7 +99,7 @@
   ],
   "images": [
     {
-      "uri": "https://raw.githubusercontent.com/RajinduSE/MarsTourAR_MTIT/main/assets/rocket/textures/Texture_baseColor.jpeg"
+      "uri": "textures/Texture_baseColor.jpeg"
     }
   ],
   "materials": [
